@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\webview-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="00792148e199701dce5840477b47836872229889">
+        <dex dex="C:\webview-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b6318161efd797d434c6673717b00464e1142bad.jar" />
+    </item>
+    <item
+        jar="C:\webview-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="65abf79adf750531462ed7f4af87e4333e77f5c2">
+        <dex dex="C:\webview-master\app\build\intermediates\pre-dexed\debug\instant-run_3bb40bbad406bdf09ef26cf6b8b4ced3bce1101d.jar" />
+    </item>
+
+</items>

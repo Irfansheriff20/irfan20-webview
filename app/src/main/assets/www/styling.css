@@ -1,0 +1,39 @@
+
+h4
+{
+ font-size:80px;
+ color:red;
+  width:500px;
+  height:100px;
+}
+.article
+{
+ 
+ width:20px;
+ height:22px;
+ color:red;
+ }
+img
+{
+  width:1000px;
+  height:400px;
+}
+table,tr,th
+{
+  border:5px solid;
+}
+body
+{
+  background-color:grey;
+}
+span
+{
+  color:green;
+}
+a
+{
+  font-size:40px;
+  color:blue;
+}
+
+  
