@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         // Use remote resource
-         mWebView.loadUrl("http://youtube.com");
+         mWebView.loadUrl("http://google.com");
 
         // Stop local links and redirects from opening in browser instead of WebView
          mWebView.setWebViewClient(new MyAppWebViewClient());
